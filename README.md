@@ -2,6 +2,9 @@
 
 [ZEN 大学のシラバス](https://syllabus.zen.ac.jp/)に載っている授業のデータを Google スプレッドシートに展開する。
 
+こんな感じになります
+![](https://raw.githubusercontent.com/mktoho12/zen-syllabus/assets/images/screenshot.png)
+
 ## Deploy
 
 .clasp.json.sample をコピーして .clasp.json ファイルを作る
