@@ -11,6 +11,9 @@ importers:
       '@types/google-apps-script':
         specifier: ^1.0.97
         version: 1.0.97
+      clasp:
+        specifier: ^1.0.0
+        version: 1.0.0
       typescript:
         specifier: ^5.8.2
         version: 5.8.2
@@ -20,6 +23,9 @@ packages:
   '@types/google-apps-script@1.0.97':
     resolution: {integrity: sha512-T8hpQ4Yi7AUvd4fnzHfmo0joGG0j1GUC8TywvRtnKgTAv0vU/DXy4nNgw4VfcOD9ZDdJc0rGoZvWhHORipzFNQ==}
 
+  clasp@1.0.0:
+    resolution: {integrity: sha512-JkgxdZvYBtqIlGPvC5oRZ548eHpfx+81z5GXckpXcMkRTZDddkQfwK60w1YE32n8ovGoSW88pbsIvCPOKM6hyA==}
+
   typescript@5.8.2:
     resolution: {integrity: sha512-aJn6wq13/afZp/jT9QZmwEjDqqvSGp1VT5GVg+f/t6/oVyrgXM6BY1h9BRh/O5p3PlUPAe+WuiEZOmb/49RqoQ==}
     engines: {node: '>=14.17'}
@@ -28,5 +34,7 @@ packages:
 snapshots:
 
   '@types/google-apps-script@1.0.97': {}
+
+  clasp@1.0.0: {}
 
   typescript@5.8.2: {}

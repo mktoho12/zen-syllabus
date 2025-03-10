@@ -3,6 +3,7 @@
     "target": "ES6",
     "module": "none",
     "strict": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "lib": ["ES6"]
   }
 }
