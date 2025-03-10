@@ -11,7 +11,7 @@
   "addOns": {
     "common": {
       "name": "ZEN大学のシラバスをスプレッドシートに取り込む",
-      "logoUrl": "https://www.example.com/hosted/images/2x/my-icon.png",
+      "logoUrl": "https://raw.githubusercontent.com/mktoho12/zen-syllabus/assets/images/gas-icon.png",
       "layoutProperties": {
         "primaryColor": "#3f51b5"
       }
