@@ -1,0 +1,6 @@
+{
+  "scriptId": "__YOUR_SCRIPT_ID__",
+  "rootDir": "src",
+  "typescript": true,
+  "type": "addon"
+}

@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "deploy": "tsc && clasp push"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.97",
+    "typescript": "^5.8.2"
+  }
+}
